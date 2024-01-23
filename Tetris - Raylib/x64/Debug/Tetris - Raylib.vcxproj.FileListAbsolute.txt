@@ -1,0 +1,3 @@
+C:\Users\gavin\cpp-projects\Tetris - Raylib\x64\Debug\Tetris - Raylib.vcxproj.CopyComplete
+C:\Users\gavin\cpp-projects\Tetris - Raylib\x64\Debug\Tetris - Raylib.exe
+C:\Users\gavin\cpp-projects\Tetris - Raylib\x64\Debug\raylib.dll
